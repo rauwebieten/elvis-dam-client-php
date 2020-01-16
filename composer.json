@@ -1,6 +1,6 @@
 {
-    "name": "/",
-    "description": "",
+    "name": "rauwebieten/elvis-dam-client-php",
+    "description": "Generated PHP code for the elvis dam rest api",
     "keywords": [
         "swagger",
         "php",
